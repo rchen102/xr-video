@@ -1,0 +1,22 @@
+{
+  "pages":[
+    "pages/userLogin/login",
+    "pages/userRegist/regist",
+    "pages/mine/mine",
+    "pages/index/index",
+    "pages/videoinfo/videoinfo",
+    "pages/chooseBgm/chooseBgm",
+    "pages/searchVideo/searchVideo",
+    "pages/report/report"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "XR-Video",
+    "navigationBarTextStyle":"black"
+  },
+  "debug": true, 
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
