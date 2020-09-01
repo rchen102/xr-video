@@ -15,4 +15,10 @@ A Short-form Video WeChat Mini-Program.
 - Swagger2
 - FFmpeg
 
+## Design
 
+<div align=center>
+
+<img src="/Design.png" style="zoom:60%">
+
+</div>
