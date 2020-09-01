@@ -1,4 +1,4 @@
-# xr-video
+# XR-Video
 A Short-form Video WeChat Mini-Program.
 
 ## Modules
