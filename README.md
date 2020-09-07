@@ -8,7 +8,7 @@ A Short-form Video WeChat Mini-Program.
 
 ## Tech Stack
 - Spring Boot
-- MyBatis + Pagehelper
+- MyBatis + PageHelper
 - MySQL
 - Zookeeper
 - Redis
